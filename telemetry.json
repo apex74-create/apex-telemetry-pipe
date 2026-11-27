@@ -1,7 +1,7 @@
 {
   "schema": "apex-telemetry/1",
-  "generatedAtISO": "2026-11-27T11:02:11.532779-05:00",
-  "generatedAtLabel": "Nov 27, 2026, 11:02 EST",
+  "generatedAtISO": "2026-11-27T11:12:07.600428-05:00",
+  "generatedAtLabel": "Nov 27, 2026, 11:12 EST",
   "thread": {
     "tokens": 202142,
     "ceilingPct": 74.3,
@@ -11,11 +11,11 @@
     "ledgerRowDate": "Nov 26, 1900"
   },
   "factory": {
-    "rpm": 33,
+    "rpm": 16,
     "red": 1,
     "openPRs": 1,
-    "sampleAtISO": "2026-11-27T15:57:10Z",
-    "sampleLabel": "Nov 27, 10:57 EST"
+    "sampleAtISO": "2026-11-27T16:07:51Z",
+    "sampleLabel": "Nov 27, 11:07 EST"
   },
   "sourceNotes": []
 }
